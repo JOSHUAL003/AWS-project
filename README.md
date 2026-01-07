@@ -30,7 +30,8 @@ A custom VPC was created with CIDR block 10.0.0.0/16.
 All AWS resources in this project are deployed inside this VPC.
 
 Screenshot Explanation:
-./screenshots/01-vpc.png
+![VPC](./screenshots/01-vpc.png)
+
 This screenshot shows the custom VPC name, CIDR range, and DNS settings enabled.
 
 **Subnets
